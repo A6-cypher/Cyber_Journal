@@ -1,4 +1,4 @@
-hduashdioassqlmap identified the following injection point(s) with a total of 56 HTTP(s) requests:
+sqlmap identified the following injection point(s) with a total of 56 HTTP(s) requests:
 ---
 Parameter: artist (GET)
     Type: boolean-based blind
