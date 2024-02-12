@@ -1,0 +1,6 @@
+Creating a dict using 3 characters to 6 characters from cypher(all kinds of combinations)
+
+crunch 3 6 cypher -o /home/kali/Desktop/cypher.txt
+
+crunch 6 6 cypher -o /home/kali/Desktop/cypher.txt(Only combinations of 6 characters)
+
